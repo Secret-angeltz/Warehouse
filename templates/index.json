@@ -6,11 +6,31 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "Slide title",
+            "content": "Tell your story",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
           }
         },
         "slide-2": {
           "type": "image",
           "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "Slide title",
+            "content": "Tell your story",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
           }
         }
       },
@@ -19,11 +39,24 @@
         "slide-2"
       ],
       "settings": {
+        "edge_to_edge": false,
+        "section_size": "preserve_ratio",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
       }
     },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
+        "collection": "",
+        "title": "Featured collection",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": ""
       }
     },
     "collection-list": {
@@ -32,31 +65,43 @@
         "collection-1": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "link": ""
           }
         },
         "collection-2": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "link": ""
           }
         },
         "collection-3": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "link": ""
           }
         },
         "collection-4": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "link": ""
           }
         },
         "collection-5": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "link": ""
           }
         },
         "collection-6": {
           "type": "collection",
           "settings": {
+            "collection": "",
+            "link": ""
           }
         }
       },
@@ -69,11 +114,20 @@
         "collection-6"
       ],
       "settings": {
+        "title": "Our collections",
+        "link_title": "View all",
+        "link": "shopify:\/\/collections",
+        "round_images": true,
+        "show_collection_title": true
       }
     },
     "newsletter": {
       "type": "newsletter",
       "settings": {
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+        "background": "#191818",
+        "text": "#ffffff"
       }
     },
     "featured-product": {
@@ -82,6 +136,10 @@
         "product-meta": {
           "type": "product_meta",
           "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_reviews_badge": false,
+            "show_share_buttons": true
           }
         },
         "featured-description": {
@@ -92,11 +150,18 @@
         "variant-selector": {
           "type": "variant_selector",
           "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": false,
+            "show_inventory_quantity": false,
+            "low_inventory_threshold": 0
           }
         },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
+            "show_payment_button": true
           }
         }
       },
@@ -107,11 +172,29 @@
         "buy-buttons"
       ],
       "settings": {
+        "product": "",
+        "title": "Featured product",
+        "link_title": "View details",
+        "link_url": "",
+        "image_size": "small",
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
       }
     },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
+        "blog": "",
+        "blog_posts_count": 3,
+        "title": "Blog posts",
+        "link_title": "View all",
+        "show_category": true,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpt": false,
+        "stack_mobile": false
       }
     },
     "text-with-icons": {
@@ -121,28 +204,32 @@
           "type": "item",
           "settings": {
             "icon": "bi-delivery",
-            "title": "Free delivery worldwide"
+            "title": "Free delivery worldwide",
+            "content": "<p>Short content about your store<\/p>"
           }
         },
         "icon-2": {
           "type": "item",
           "settings": {
             "icon": "bi-returns",
-            "title": "Satisfied or refunded"
+            "title": "Satisfied or refunded",
+            "content": "<p>Short content about your store<\/p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
             "icon": "bi-customer-support",
-            "title": "Top-notch support"
+            "title": "Top-notch support",
+            "content": "<p>Short content about your store<\/p>"
           }
         },
         "icon-4": {
           "type": "item",
           "settings": {
             "icon": "bi-secure-payment",
-            "title": "Secure payments"
+            "title": "Secure payments",
+            "content": "<p>Short content about your store<\/p>"
           }
         }
       },
@@ -153,6 +240,7 @@
         "icon-4"
       ],
       "settings": {
+        "stack_mobile": false
       }
     }
   },
