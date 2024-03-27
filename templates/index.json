@@ -220,6 +220,7 @@
         "item_QYzUrF",
         "item_AGWpJr"
       ],
+      "disabled": true,
       "settings": {
         "section_size": "medium"
       }
@@ -326,6 +327,7 @@
         "icon-3",
         "icon-4"
       ],
+      "disabled": true,
       "settings": {
         "stack_mobile": false
       }
