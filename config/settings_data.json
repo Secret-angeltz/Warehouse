@@ -103,7 +103,7 @@
           "footer-0": {
             "type": "text",
             "settings": {
-              "title": "Our Vision",
+              "title": "WELCOME TO SWIFTMART",
               "content": "<p>We operate globally. Office located at Pudong, Shanghai - China. Check About us Page for more details.<\/p><p>At Swiftmart, our mission is to revolutionize the digital marketplace by empowering creators and consumers alike. We are committed to offering a diverse range of high-quality digital products that inspire, innovate, and elevate.<\/p>"
             }
           },
@@ -112,19 +112,11 @@
             "settings": {
               "menu": "footer"
             }
-          },
-          "footer-2": {
-            "type": "newsletter",
-            "settings": {
-              "title": "Newsletter",
-              "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
-            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "footer-1"
         ],
         "settings": {
           "show_social_media": true,

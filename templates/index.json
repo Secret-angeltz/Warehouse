@@ -225,6 +225,7 @@
         },
         "featured-description": {
           "type": "featured_description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -241,7 +242,7 @@
         "buy-buttons"
       ],
       "settings": {
-        "product": "",
+        "product": "secure-your-loved-ones-with-this-hd-wifi-ip-camera-2mp-3mp-home-security-camera-surveillance-camera-ir-night-vision-cctv-camera-indoor-baby-monitor",
         "title": "Featured product",
         "link_title": "View details",
         "link_url": "",
@@ -258,81 +259,86 @@
         "item_NPhMci": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/old-radio.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
-            "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "text_color": "#ffffff",
+            "title": "Electronics",
+            "content": "Shop reliable electronics from our store",
             "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#191818",
+            "button_text": "Shop Now",
+            "link": "shopify:\/\/collections"
           }
         },
         "item_xDCm39": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/apple-iphone-12-concept_158711095630.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
-            "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "text_color": "#ffffff",
+            "title": "Mobile Phones",
+            "content": "Exclusive offers on all mobile phones",
             "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#191818",
+            "button_text": "Shop Now",
+            "link": "shopify:\/\/collections"
           }
         },
         "item_Jffmxi": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-03-27_134944.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
-            "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#191818",
+            "button_text": "Shop Now",
+            "link": "shopify:\/\/collections\/security-spy-systems"
           }
         },
         "item_QYzUrF": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/70e8a0258a9bb5c0be5f10b5a7646733.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
-            "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "text_color": "#ffffff",
+            "title": "Mobile Accessories",
+            "content": "Our various accessories to have the best Experience",
             "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#191818",
+            "button_text": "Shop Now",
+            "link": "shopify:\/\/collections\/mobile-accessories"
           }
         },
         "item_AGWpJr": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/apple-gadgets-hands-iphone.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
-            "text_color": "#4f5558",
-            "title": "Your heading",
-            "content": "Tell more about your product, collection...",
+            "text_color": "#ffffff",
+            "title": "Laptops & Computers",
+            "content": "More than 15% off on selected products",
             "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#191818",
+            "button_text": "Shop Now",
+            "link": "shopify:\/\/collections"
           }
         }
       },
