@@ -80,6 +80,7 @@
         "type": "header",
         "settings": {
           "enable_sticky_header": true,
+          "logo": "shopify:\/\/shop_images\/logo_neww-02.png",
           "logo_max_width": 140,
           "mobile_logo_max_width": 100,
           "show_locale_selector": true,
