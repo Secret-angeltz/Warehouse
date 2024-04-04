@@ -6,52 +6,52 @@
         "image_wCig7j": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/banner2.jpg",
-            "show_overlay": false,
+            "image": "shopify:\/\/shop_images\/photos_tunna_final-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/photos_tunna_final-01.png",
+            "show_overlay": true,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
+            "title": "Security Systems",
+            "content": "Explore a wide range of security systems",
+            "content_position": "top_left",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "button_text": "Button",
-            "link": ""
+            "button_text": "BUY NOW",
+            "link": "shopify:\/\/collections\/all"
           }
         },
         "image_86Qieh": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slide3.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/slide3.jpg",
-            "show_overlay": false,
+            "image": "shopify:\/\/shop_images\/photos_tunna_final-03.png",
+            "mobile_image": "shopify:\/\/shop_images\/photos_tunna_final-03.png",
+            "show_overlay": true,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
-            "title": "",
-            "content": "",
+            "title": "Mobile Accessories",
+            "content": "Best Quality & Durable Accessories",
             "content_position": "middle_center",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "button_text": "Button",
-            "link": ""
+            "button_text": "BUY NOW",
+            "link": "shopify:\/\/collections\/all"
           }
         },
         "image_JzgTmM": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slide2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/slide2.jpg",
-            "show_overlay": false,
+            "image": "shopify:\/\/shop_images\/photos_tunna_final-02.png",
+            "mobile_image": "shopify:\/\/shop_images\/photos_tunna_final-02.png",
+            "show_overlay": true,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
-            "title": "",
-            "content": "",
+            "title": "Smart Home Devices",
+            "content": "Control your home with your fingertips.",
             "content_position": "middle_center",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "button_text": "Button",
-            "link": ""
+            "button_text": "BUY NOW",
+            "link": "shopify:\/\/collections\/all"
           }
         }
       },
@@ -131,6 +131,7 @@
         "item_6Xnf4E",
         "item_G9YfHQ"
       ],
+      "disabled": true,
       "settings": {
         "expand_items": false,
         "section_size": "medium",
@@ -141,7 +142,7 @@
       "type": "featured-collection",
       "settings": {
         "collection": "most-bought",
-        "title": "Featured collection",
+        "title": "Products",
         "products_count": 12,
         "layout": "vertical",
         "stack_products": false,
@@ -180,6 +181,7 @@
         "featured-description",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "product": "secure-your-loved-ones-with-this-hd-wifi-ip-camera-2mp-3mp-home-security-camera-surveillance-camera-ir-night-vision-cctv-camera-indoor-baby-monitor",
         "title": "Featured product",

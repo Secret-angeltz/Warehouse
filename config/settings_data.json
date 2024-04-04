@@ -128,21 +128,6 @@
           "accept_button": "Accept"
         }
       },
-      "announcement-bar": {
-        "type": "announcement-bar",
-        "settings": {
-          "show_announcement": true,
-          "background": "#ff0000",
-          "text_color": "#ffffff",
-          "text": "Shipping Only Takes 5 To 7 Days, Order More $1000, Get Best Discount Today",
-          "text_position": "left",
-          "link": "",
-          "show_newsletter": true,
-          "newsletter_button": "Subscribe & Save",
-          "newsletter_title": "Newsletter",
-          "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
-        }
-      },
       "popups": {
         "type": "popups",
         "settings": {
