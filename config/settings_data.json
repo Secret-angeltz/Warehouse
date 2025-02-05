@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_color": "#191818",
@@ -45,7 +54,7 @@
     "show_inventory_quantity": false,
     "low_inventory_threshold": 0,
     "cart_type": "drawer",
-    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_empty_button_link": "shopify://collections/all",
     "cart_show_checkout_button": true,
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
@@ -80,7 +89,7 @@
         "type": "header",
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/logo_neww-02.png",
+          "logo": "shopify://shop_images/logo_neww-02.png",
           "logo_max_width": 140,
           "mobile_logo_max_width": 100,
           "show_locale_selector": true,
@@ -104,8 +113,8 @@
           "footer-0": {
             "type": "text",
             "settings": {
-              "title": "WELCOME TO SWIFTMART",
-              "content": "<p>We operate globally. Office located at Pudong, Shanghai - China. Check About us Page for more details.<\/p><p>At Swiftmart, our mission is to revolutionize the digital marketplace by empowering creators and consumers alike. We are committed to offering a diverse range of high-quality digital products that inspire, innovate, and elevate.<\/p>"
+              "title": "WELCOME TO BUYMACHINESTZ",
+              "content": "<p>We operate globally. Office located at Pudong, Shanghai - China. Check About us Page for more details.</p><p>At Buymachinestz, our mission is to revolutionize the digital marketplace by empowering creators and consumers alike. We are committed to offering a diverse range of high-quality digital products that inspire, innovate, and elevate.</p>"
             }
           },
           "footer-1": {
@@ -125,14 +134,13 @@
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_cookie_bar": false,
-          "text": "<p>Use this bar to show information about your cookie policy.<\/p>",
+          "text": "<p>Use this bar to show information about your cookie policy.</p>",
           "accept_button": "Accept"
         }
       },
       "popups": {
         "type": "popups",
-        "settings": {
-        }
+        "settings": {}
       },
       "static-text-with-icons": {
         "type": "static-text-with-icons",
@@ -142,9 +150,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Metal": {
@@ -193,7 +199,7 @@
       "low_inventory_threshold": 0,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_checkout_button": true,
       "cart_show_free_shipping_threshold": false,
       "cart_free_shipping_threshold": "50",
@@ -245,7 +251,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -258,7 +264,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -281,7 +287,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         }
       }
@@ -332,7 +338,7 @@
       "low_inventory_threshold": 1,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_checkout_button": true,
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "50",
@@ -370,7 +376,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -383,7 +389,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -406,7 +412,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         }
       }
@@ -457,7 +463,7 @@
       "low_inventory_threshold": 2,
       "show_reviews_badge": true,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_checkout_button": true,
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "49",
@@ -508,7 +514,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -521,7 +527,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -544,7 +550,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         }
       }
