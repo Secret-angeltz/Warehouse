@@ -22,8 +22,8 @@
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#191818",
     "secondary_button_text_color": "#ffffff",
-    "header_background": "#191818",
-    "header_text_color": "#ffffff",
+    "header_background": "#f3f5f6",
+    "header_text_color": "#191818",
     "header_light_text_color": "#677279",
     "header_accent_color": "#ff0000",
     "footer_background_color": "#f3f5f6",
@@ -87,6 +87,7 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [],
         "settings": {
           "enable_sticky_header": true,
           "logo": "shopify://shop_images/logoo-01_9a5f8ee9-4286-406a-a341-23d9c6691ec3.png",
@@ -99,8 +100,8 @@
           "desktop_navigation_layout": "inline",
           "desktop_navigation_open_trigger": "hover",
           "show_navigation_social_media": true,
-          "navigation_phone_number": "Call us 000-000-0000",
-          "navigation_email": "info@yourwebsite.com",
+          "navigation_phone_number": "Call us +255 757 280 986",
+          "navigation_email": "info@buymachinestz.com",
           "show_condensed_search": true,
           "show_search_filter": true,
           "search_menu": "",
