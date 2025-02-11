@@ -225,31 +225,18 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "product-meta": {
-          "type": "product_meta",
-          "disabled": true,
-          "settings": {
-            "show_vendor": true,
-            "show_sku": false,
-            "show_reviews_badge": false,
-            "show_share_buttons": true
-          }
-        },
         "featured-description": {
           "type": "featured_description",
-          "disabled": true,
           "settings": {}
         },
         "buy-buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_payment_button": true
           }
         }
       },
       "block_order": [
-        "product-meta",
         "featured-description",
         "buy-buttons"
       ],
