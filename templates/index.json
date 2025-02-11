@@ -15,18 +15,18 @@
         "image_wCig7j": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/photos_tunna_final-01.png",
-            "mobile_image": "shopify://shop_images/photos_tunna_final-01.png",
+            "image": "shopify://shop_images/sliders-07_a0c542d5-5c57-44d2-b744-b52e7ab442d9.png",
+            "mobile_image": "shopify://shop_images/sliders-07_a0c542d5-5c57-44d2-b744-b52e7ab442d9.png",
             "show_overlay": true,
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "text_color": "#ffffff",
-            "title": "Security Systems",
-            "content": "Explore a wide range of security systems",
+            "title": "",
+            "content": "",
             "content_position": "top_left",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "button_text": "BUY NOW",
-            "link": "shopify://collections/all"
+            "button_text": "",
+            "link": "shopify://collections/generators"
           }
         },
         "image_86Qieh": {
@@ -145,6 +145,68 @@
         "expand_items": false,
         "section_size": "medium",
         "stack_mobile": false
+      }
+    },
+    "collection_list_VRbPx7": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_JqcqVW": {
+          "type": "collection",
+          "settings": {
+            "collection": "generators",
+            "link": ""
+          }
+        },
+        "collection_6emM9q": {
+          "type": "collection",
+          "settings": {
+            "collection": "mining",
+            "link": ""
+          }
+        },
+        "collection_hcdyat": {
+          "type": "collection",
+          "settings": {
+            "collection": "construction",
+            "link": ""
+          }
+        },
+        "collection_x3xrJT": {
+          "type": "collection",
+          "settings": {
+            "collection": "agricultural-machinery",
+            "link": ""
+          }
+        },
+        "collection_WEzKep": {
+          "type": "collection",
+          "settings": {
+            "collection": "industrial-pumps",
+            "link": ""
+          }
+        },
+        "collection_34mmaC": {
+          "type": "collection",
+          "settings": {
+            "collection": "power-tools",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_JqcqVW",
+        "collection_6emM9q",
+        "collection_hcdyat",
+        "collection_x3xrJT",
+        "collection_WEzKep",
+        "collection_34mmaC"
+      ],
+      "settings": {
+        "title": "Our collections",
+        "link_title": "View all",
+        "link": "shopify://collections",
+        "round_images": true,
+        "show_collection_title": true
       }
     },
     "featured-collection": {
@@ -301,68 +363,6 @@
       "disabled": true,
       "settings": {
         "section_size": "medium"
-      }
-    },
-    "collection_list_VRbPx7": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_JqcqVW": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "link": ""
-          }
-        },
-        "collection_6emM9q": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "link": ""
-          }
-        },
-        "collection_hcdyat": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "link": ""
-          }
-        },
-        "collection_x3xrJT": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "link": ""
-          }
-        },
-        "collection_WEzKep": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "link": ""
-          }
-        },
-        "collection_34mmaC": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_JqcqVW",
-        "collection_6emM9q",
-        "collection_hcdyat",
-        "collection_x3xrJT",
-        "collection_WEzKep",
-        "collection_34mmaC"
-      ],
-      "settings": {
-        "title": "Our collections",
-        "link_title": "View all",
-        "link": "shopify://collections",
-        "round_images": true,
-        "show_collection_title": true
       }
     },
     "logo_list_ewt8Gh": {
