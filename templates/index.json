@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_FXcGE9": {
@@ -6,8 +15,8 @@
         "image_wCig7j": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photos_tunna_final-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/photos_tunna_final-01.png",
+            "image": "shopify://shop_images/photos_tunna_final-01.png",
+            "mobile_image": "shopify://shop_images/photos_tunna_final-01.png",
             "show_overlay": true,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -17,14 +26,14 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "BUY NOW",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "image_86Qieh": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photos_tunna_final-03.png",
-            "mobile_image": "shopify:\/\/shop_images\/photos_tunna_final-03.png",
+            "image": "shopify://shop_images/photos_tunna_final-03.png",
+            "mobile_image": "shopify://shop_images/photos_tunna_final-03.png",
             "show_overlay": true,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -34,14 +43,14 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "BUY NOW",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "image_JzgTmM": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photos_tunna_final-02.png",
-            "mobile_image": "shopify:\/\/shop_images\/photos_tunna_final-02.png",
+            "image": "shopify://shop_images/photos_tunna_final-02.png",
+            "mobile_image": "shopify://shop_images/photos_tunna_final-02.png",
             "show_overlay": true,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -51,7 +60,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "BUY NOW",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         }
       },
@@ -74,14 +83,14 @@
         "item_i8frVx": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/toppng.com-wireless-security-camera-system-with-monitor-and-4-cctv-camera-installation-training-pdf-1022x734.png",
+            "image": "shopify://shop_images/toppng.com-wireless-security-camera-system-with-monitor-and-4-cctv-camera-installation-training-pdf-1022x734.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "stretch_image": false,
             "background": "#6f42ef",
             "text_color": "#ffffff",
             "title": "CCTV Cameras",
-            "content": "Exclusive Offers on Home\/Office Security Systems",
+            "content": "Exclusive Offers on Home/Office Security Systems",
             "content_position": "top_left",
             "button_background": "#ffffff",
             "button_text_color": "#6f42ef",
@@ -92,7 +101,7 @@
         "item_6Xnf4E": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/55-557530_mobiles-accessories-png-headphone-mobile-accessories-png-clipart.png",
+            "image": "shopify://shop_images/55-557530_mobiles-accessories-png-headphone-mobile-accessories-png-clipart.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "stretch_image": false,
@@ -104,13 +113,13 @@
             "button_background": "#ffffff",
             "button_text_color": "#fc2a68",
             "button_text": "Shop Mobile Accessories",
-            "button_link": "shopify:\/\/collections\/mobile-accessories"
+            "button_link": "shopify://collections/mobile-accessories"
           }
         },
         "item_G9YfHQ": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/JBL-Audio-Speakers-Amplifier-Background-PNG.png",
+            "image": "shopify://shop_images/JBL-Audio-Speakers-Amplifier-Background-PNG.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "stretch_image": false,
@@ -122,7 +131,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#26c1ce",
             "button_text": "Shop Speakers",
-            "button_link": "shopify:\/\/collections"
+            "button_link": "shopify://collections"
           }
         }
       },
@@ -166,8 +175,7 @@
         "featured-description": {
           "type": "featured_description",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy_buttons",
@@ -200,7 +208,7 @@
         "item_NPhMci": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/old-radio.jpg",
+            "image": "shopify://shop_images/old-radio.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -211,13 +219,13 @@
             "button_background": "#ffffff",
             "button_text_color": "#191818",
             "button_text": "Shop Now",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         },
         "item_xDCm39": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/apple-iphone-12-concept_158711095630.jpg",
+            "image": "shopify://shop_images/apple-iphone-12-concept_158711095630.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -228,13 +236,13 @@
             "button_background": "#ffffff",
             "button_text_color": "#191818",
             "button_text": "Shop Now",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         },
         "item_Jffmxi": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-03-27_134944.png",
+            "image": "shopify://shop_images/Screenshot_2024-03-27_134944.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -245,13 +253,13 @@
             "button_background": "#ffffff",
             "button_text_color": "#191818",
             "button_text": "Shop Now",
-            "link": "shopify:\/\/collections\/security-spy-systems"
+            "link": "shopify://collections/security-spy-systems"
           }
         },
         "item_QYzUrF": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/70e8a0258a9bb5c0be5f10b5a7646733.jpg",
+            "image": "shopify://shop_images/70e8a0258a9bb5c0be5f10b5a7646733.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -262,13 +270,13 @@
             "button_background": "#ffffff",
             "button_text_color": "#191818",
             "button_text": "Shop Now",
-            "link": "shopify:\/\/collections\/mobile-accessories"
+            "link": "shopify://collections/mobile-accessories"
           }
         },
         "item_AGWpJr": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/apple-gadgets-hands-iphone.jpg",
+            "image": "shopify://shop_images/apple-gadgets-hands-iphone.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -279,7 +287,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#191818",
             "button_text": "Shop Now",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         }
       },
@@ -301,42 +309,42 @@
         "logo_q8dg3V": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logos-12.png",
+            "image": "shopify://shop_images/logos-01_6dc9a9e7-cad5-4ca4-ab18-0d9bab247cb4.png",
             "link": ""
           }
         },
         "logo_yeMGJC": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logos-11.png",
+            "image": "shopify://shop_images/logos-02_acb59944-13ad-4b04-af61-ef9cbfae1956.png",
             "link": ""
           }
         },
         "logo_7QDHW3": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logos-10.png",
+            "image": "shopify://shop_images/logos-03_546ec3f5-95c7-4142-a510-fd1115594eb0.png",
             "link": ""
           }
         },
         "logo_fJAmEU": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logos-08.png",
+            "image": "shopify://shop_images/logos-04_4d3c86be-6be6-4128-9614-39ab829c9d68.png",
             "link": ""
           }
         },
         "logo_NxGdi3": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logos-07.png",
+            "image": "shopify://shop_images/logos-05_fb70dcfb-e59d-4796-a029-94877ab2f050.png",
             "link": ""
           }
         },
         "logo_YaDg4h": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logos-09.png",
+            "image": "shopify://shop_images/logos-06_7b2a3631-1beb-4413-85be-20e9548609af.png",
             "link": ""
           }
         }
@@ -363,7 +371,7 @@
           "settings": {
             "icon": "bi-delivery",
             "title": "Reliable delivery worldwide",
-            "content": "<p>We Deliver within 7 Days<\/p>"
+            "content": "<p>We Deliver within 7 Days</p>"
           }
         },
         "icon-2": {
@@ -371,15 +379,15 @@
           "settings": {
             "icon": "bi-returns",
             "title": "Satisfied or refunded",
-            "content": "<p>Free returns within 14 days<\/p>"
+            "content": "<p>Free returns within 14 days</p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
             "icon": "bi-customer-support",
-            "title": "We are available 24\/7",
-            "content": "<p>Contact us by chat, mail, phone<\/p>"
+            "title": "We are available 24/7",
+            "content": "<p>Contact us by chat, mail, phone</p>"
           }
         },
         "icon-4": {
@@ -387,7 +395,7 @@
           "settings": {
             "icon": "bi-secure-payment",
             "title": "Secure payments",
-            "content": "<p>Via Americal Express, Apple Pay, Mastercard & Visa<\/p>"
+            "content": "<p>Via Americal Express, Apple Pay, Mastercard & Visa</p>"
           }
         }
       },
@@ -401,6 +409,68 @@
       "settings": {
         "stack_mobile": false
       }
+    },
+    "collection_list_VRbPx7": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_JqcqVW": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "collection_6emM9q": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "collection_hcdyat": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "collection_x3xrJT": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "collection_WEzKep": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "collection_34mmaC": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_JqcqVW",
+        "collection_6emM9q",
+        "collection_hcdyat",
+        "collection_x3xrJT",
+        "collection_WEzKep",
+        "collection_34mmaC"
+      ],
+      "settings": {
+        "title": "Our collections",
+        "link_title": "View all",
+        "link": "shopify://collections",
+        "round_images": true,
+        "show_collection_title": true
+      }
     }
   },
   "order": [
@@ -410,6 +480,7 @@
     "featured-product",
     "mosaic_LrNiwJ",
     "logo_list_ewt8Gh",
-    "text-with-icons"
+    "text-with-icons",
+    "collection_list_VRbPx7"
   ]
 }
