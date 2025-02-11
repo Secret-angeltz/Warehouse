@@ -227,6 +227,7 @@
       "blocks": {
         "product-meta": {
           "type": "product_meta",
+          "disabled": true,
           "settings": {
             "show_vendor": true,
             "show_sku": false,
@@ -241,6 +242,7 @@
         },
         "buy-buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_payment_button": true
           }
