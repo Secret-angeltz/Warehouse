@@ -211,7 +211,6 @@
     },
     "featured-collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "collection": "most-bought",
         "title": "Products",
@@ -241,6 +240,7 @@
         "featured-description",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "product": "secure-your-loved-ones-with-this-hd-wifi-ip-camera-2mp-3mp-home-security-camera-surveillance-camera-ir-night-vision-cctv-camera-indoor-baby-monitor",
         "title": "Featured product",
