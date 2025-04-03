@@ -211,6 +211,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "most-bought",
         "title": "Products",
